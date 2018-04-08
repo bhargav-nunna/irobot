@@ -3,6 +3,7 @@ iRobot
 ======
 
 A Python implementation of the iRobot Open Interface.
+Cloned from https://bitbucket.org/lemoneer/irobot/downloads/
 
 |
 
@@ -302,7 +303,7 @@ Changelog
 |
 | irobot-1.0.0b2
 - Bugfix: Improperly set baud rate on serial connection preventing the library from working under Linux.
-| 
+|
 | irobot-1.0.0b3
 - Bugfix: Wrong op code for seek_dock
 - Bugfix: Use of Python 2.7 incompatible version of super()
